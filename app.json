@@ -1,0 +1,12 @@
+{
+  "name": "todo-fire",
+  "displayName": "todo-fire",
+  "expo": {
+    "name": "todo-fire",
+    "slug": "todo-fire",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
